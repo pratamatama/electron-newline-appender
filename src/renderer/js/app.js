@@ -79,6 +79,12 @@ function chunk(inputVal, maxDigit) {
   return result
 }
 
+/**
+ * Open about application window.
+ * 
+ * @return {void}
+ * @author Donny Pratama <donnypratama1024@gmail.com>
+ */
 function about() {
   window.open('', 'modal')
 }

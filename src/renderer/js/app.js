@@ -1,7 +1,6 @@
 const {
   clipboard,
   remote,
-  BrowserWindow,
 } = require('electron')
 
 let result

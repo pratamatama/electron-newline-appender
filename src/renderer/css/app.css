@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    background-color: #EAEAEA;
+    height: 100%;
+}
+
+.container-fluid,
+.row,
+#input-field {
+    height: 100%;
+}

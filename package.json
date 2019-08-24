@@ -1,0 +1,26 @@
+{
+  "name": "com.donnypratama.newline.appender",
+  "version": "1.0.0",
+  "description": "An application to append newline on the considered condition",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/pratamatama/electron-newline-appender.git"
+  },
+  "keywords": [
+    "newline-appender"
+  ],
+  "author": "Donny Kurnia Pratama <donnypratama1024@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/pratamatama/electron-newline-appender#readme",
+  "devDependencies": {
+    "electron": "^6.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}

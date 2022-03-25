@@ -18,7 +18,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/pratamatama/electron-newline-appender#readme",
   "devDependencies": {
-    "electron": "^6.0.3"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "bootstrap": "^4.3.1"
